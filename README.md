@@ -10,8 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaMis2&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaMis2&layout=compact&langs_count=16&theme=omni)](https://github.com/PaMis2/github-readme-stats)
 
-
-
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
