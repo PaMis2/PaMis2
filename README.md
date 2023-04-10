@@ -1,24 +1,27 @@
-### Oieee, Eu sou a Pam 🐼🍔( •̀ ω •́ )✧
-##
+***<h1> Oieee, Eu sou a Pam 🐼🍔( •̀ ω •́ )✧ </h1>***
 
 - 📹 Streamer nas horas vagas
 - 🌱 Estou estudando desenvolvimento front-end
 - 😍 Adoro filmes, séries, games e comidinhas 
 - 🎀 Pronomes: ela/dela
-##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaMis2&show_icons=true&theme=omni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaMis2&layout=compact&langs_count=16&theme=omni)](https://github.com/PaMis2/github-readme-stats)
 
 ##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          
+<div align="center"><br>
+  <a href="https://github.com/PaMis2">
+  <img height="170vh" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PaMis2&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="100vh" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PaMis2&layout=compact&langs_count=7&theme=omni"/>
+  <br>
+  
+
+##
+
+<div align="center">
+  <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img height="40vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ 
 </div>
-
 
 ##
 
