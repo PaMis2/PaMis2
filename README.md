@@ -10,7 +10,7 @@
 <div align="center"><br>
   <a href="https://github.com/PaMis2">
   <img height="140vh" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PaMis2&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="80vh" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PaMis2&layout=compact&langs_count=7&theme=omni"/>
+  <img height="100vh" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PaMis2&layout=compact&langs_count=7&theme=omni"/>
   <br>
   
 
